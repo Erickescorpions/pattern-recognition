@@ -1,0 +1,22 @@
+# Ignorar archivos de configuración de Jupyter Notebook
+*.ipynb_checkpoints/
+
+# Ignorar archivos temporales de Jupyter Notebook
+*.nbconvert/
+*.nbsave/
+
+# Ignorar archivos temporales generales del sistema
+.DS_Store
+*.log
+*.tmp
+*.swp
+
+# Ignorar archivos de configuración del entorno
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Ignorar configuraciones del editor (por ejemplo, VSCode)
+.vscode/
+*.code-workspace

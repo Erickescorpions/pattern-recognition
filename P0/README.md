@@ -1,6 +1,6 @@
 # Practica 0
 
-Para poder ejecutar el notebook desde tu entorno virtual:
+Para ejecutar el notebook
 
 1. Encontrarse dentro de la carpeta de la P0
 ``` shell

@@ -1,4 +1,4 @@
-# Practica 0
+# Practica 1
 
 Para ejecutar el notebook
 
